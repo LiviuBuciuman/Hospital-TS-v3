@@ -1,0 +1,16 @@
+body {
+    background-color: azure;
+}
+
+fieldset {
+    border: 1px solid blue;
+    width: 400px;
+    text-align: center;
+    margin: 50px auto auto;
+    background-color: rgba(150, 150, 150, 0.6);
+}
+
+fieldset input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
